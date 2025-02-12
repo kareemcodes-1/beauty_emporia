@@ -2,15 +2,15 @@ import { useEffect } from "react"
 import Hero from "./components/hero"
 import Lenis from "lenis";
 import 'lenis/dist/lenis.css'
-import Collections from "./components/collections"
-import Layout from "./layout"
+import Layout from "./layout";
 import Navbar from "./components/navbar";
-import MarqueeCTA from "./components/marquee-cta";
-import {Services} from "./components/services";
+import Footer from "./components/footer";
 import About from "./components/about";
-import FAQ from "./components/faq";
-import Testimonials from "./components/testimonials";
+import { OurWorks } from "./components/our-works";
 import BookNow from "./components/book-now";
+import Testimonials from "./components/testimonials";
+import FAQ from "./components/faq";
+import {Services} from "./components/services";
 
 
 function App() {
@@ -29,17 +29,16 @@ function App() {
   return (
     
     <Layout>
-        <div className="bg-[#FFE4C4]">
+       
         <Navbar />
         <Hero />
-        </div>
-        <MarqueeCTA />
+        {/* <Test /> */}
         <About />
         <FAQ />
         <Services />
+        <OurWorks />
         <Testimonials />
         <BookNow />
-         {/* <Collections /> */}
     </Layout>
   )
 

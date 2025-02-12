@@ -30,7 +30,7 @@ const AboutPage = () => {
                 class="h-full w-full object-cover rounded-[.5rem]"
               />
 
-              <div class="lg:block hidden absolute right-[-5rem]top-[10rem] lg:h-[20rem] w-[18rem]">
+              <div class="lg:block hidden absolute right-[-5rem] top-[10rem] lg:h-[20rem] w-[18rem]">
                 <img
                   src="/home1.jpg"
                   alt="Second Image"
@@ -66,7 +66,7 @@ const AboutPage = () => {
                 with Passion​
               </h2>
               <p className="mt-[1.5rem] text-[#98623C]">
-                MDPro Makeover & Beauty Spa is your trusted beauty destination,
+                Bellavida Spa is your trusted beauty destination,
                 dedicated to offering a wide range of services that cater to all
                 aspects of beauty and wellness. Our team of certified beauty
                 experts and therapists are passionate about bringing out the

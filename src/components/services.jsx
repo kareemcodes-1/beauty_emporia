@@ -4,7 +4,7 @@ import { FiArrowRight } from "react-icons/fi";
 
 export const Services = () => {
   return (
-    <section className="bg-[#4B3619] lg:px-[2rem] px-[1.5rem] pt-[1.5rem] relative">
+    <section className="bg-[#aa8800] lg:px-[2rem] px-[1.5rem] pt-[1.5rem] relative">
       <div className="absolute -top-[0rem] right-[1rem]">
              {/* <img src="./leaf-2.png" alt="" className="w-[10rem] h-[10rem] rotate-[-80deg]"/>  */}
              <img src="./leaf2.png" alt="" className="w-[10rem] h-[10rem] rotate-[-80deg] opacity-5"/> 
@@ -14,19 +14,19 @@ export const Services = () => {
           heading=" Facial &nbsp; massage"
           // subheading="Learn what we do here"
           imgSrc="/home1.jpg"
-          href="#"
+          href="/services"
         />
         <Link
           heading="Pedicure"
           // subheading="We work with great people"
           imgSrc="/home1.jpg"
-          href="#"
+          href="/services"
         />
         <Link
           heading="Hair &nbsp; styling"
           // subheading="Our work speaks for itself"
           imgSrc="/home1.jpg"
-          href="#"
+          href="/services"
         />
         {/* <Link
           heading="Body &nbsp; Scrub"
@@ -38,7 +38,7 @@ export const Services = () => {
           heading="Body &nbsp; Massage"
           // subheading="Incase you're bored"
           imgSrc="/home1.jpg"
-          href="#"
+          href="/services"
         />
       </div>
     </section>

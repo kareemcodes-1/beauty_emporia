@@ -36,7 +36,7 @@ const ServicesPage = () => {
               strokeWidth="3"
             />
           </svg></span> & Wellness​</h2>
-             <p className="mt-[1.5rem] text-center lg:w-[700px] w-full mx-auto text-[#98623C]">MDPro Makeover & Beauty Spa is your trusted beauty destination, dedicated to offering a wide range of services that cater to all aspects of beauty and wellness. Our team of certified beauty experts and therapists are passionate about bringing out the best version of you, offering services ranging from professional makeovers to holistic spa treatments.</p>
+             <p className="mt-[1.5rem] text-center lg:w-[700px] w-full mx-auto text-[#98623C]">Bellavida Spa is your trusted beauty destination, dedicated to offering a wide range of services that cater to all aspects of beauty and wellness. Our team of certified beauty experts and therapists are passionate about bringing out the best version of you, offering services ranging from professional body massages to holistic spa treatments.</p>
              </div>
 
              <div className='mt-[2rem] flex flex-col gap-[1rem]'>
