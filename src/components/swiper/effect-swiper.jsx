@@ -9,13 +9,17 @@ import 'swiper/css/pagination';
 
 
 // import required modules
-import { EffectCoverflow, Pagination } from 'swiper/modules';
+import { EffectCoverflow, Autoplay, Pagination } from 'swiper/modules';
 
 export default function EffectSwiper() {
   return (
     <>
-      {/* <Swiper
+      <Swiper
         effect={'coverflow'}
+        autoplay={{
+          delay: 2500,
+          disableOnInteraction: false,
+        }}
         grabCursor={true}
         centeredSlides={true}
         slidesPerView={3}
@@ -28,7 +32,7 @@ export default function EffectSwiper() {
           slideShadows: true,
         }}
         pagination={true}
-        modules={[EffectCoverflow, Pagination]}
+        modules={[EffectCoverflow, Pagination, Autoplay]}
         className="mySwiper !mt-[3rem] !hidden lg:block swiper-lg"
       >
         <SwiperSlide>
@@ -58,13 +62,17 @@ export default function EffectSwiper() {
         <SwiperSlide>
           <img src="./home.jpg" />
         </SwiperSlide>
-      </Swiper> */}
+      </Swiper>
 
       <Swiper
         effect={'coverflow'}
         grabCursor={true}
         centeredSlides={true}
         slidesPerView={1}
+        autoplay={{
+          delay: 2500,
+          disableOnInteraction: false,
+        }}
         loop
         coverflowEffect={{
           rotate: 50,
@@ -74,8 +82,8 @@ export default function EffectSwiper() {
           slideShadows: true,
         }}
         pagination={true}
-        modules={[EffectCoverflow, Pagination]}
-        className="mySwiper !mt-[3rem] !hidden lg:block swiper-sm"
+        modules={[EffectCoverflow, Pagination, Autoplay]}
+        className="mySwiper !mt-[3rem] swiper-sm"
       >
         <SwiperSlide>
           <img src="./home.jpg" />

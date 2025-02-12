@@ -9,7 +9,7 @@ const Footer = () => {
        <div>
          <div className="mb-[3rem]">
              <Link to={'/'}>
-                 <img src="./logo2.png" alt="" className="lg:h-[8rem] lg:w-[5rem] w-[5rem] h-[10rem] object-cover"/>
+                 <img src="./logo2.png" alt="" className="lg:h-[8rem] lg:w-[5rem] w-[8rem] h-[10rem] lg:object-cover object-contain"/>
             </Link>
 
            <p
@@ -20,7 +20,7 @@ const Footer = () => {
            </p>
          </div>
 
-         <div className="flex items-start lg:gap-[4rem] flex-row gap-[1rem] lg:mb-0 mb-[1.5rem]">
+         <div className="flex items-start lg:gap-[4rem] flex-row gap-[3rem] lg:mb-0 mb-[1.5rem]">
            <div>
              <div className="flex items-start flex-col lg:text-[1rem] text-[1rem] font-medium lg:gap-[1.4rem] gap-[1rem]">
                <Link to="/">Home</Link>
