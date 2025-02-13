@@ -15,8 +15,8 @@ const About = () => {
          <div className="lg:grid flex flex-col grid-cols-2 gap-[2rem]">
            <div className="flex flex-col items-start lg:mb-0 mb-[2rem]">
              <h3 className="text-[1.7rem] text-[#aa8800]">About us</h3>
-             <h1 className="golo lg:text-[4rem] text-[2.5rem]">Organic and certified natural skincare.</h1>
-             <p>MDPro Makeover & Beauty Spa is your trusted beauty destination, dedicated to offering a wide range of services that cater to all aspects of beauty and wellness.</p>
+             <h1 className="golo lg:text-[4rem] text-[2.5rem]">Let's bring out the best version of you.</h1>
+             <p>At Beauty Emporia, we are committed to enhancing your natural beauty and well-being. Our expert team offers a comprehensive range of treatments designed to rejuvenate your mind, body, and spirit.</p>
              <button className="bg-[#aa8800] p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-[10rem] transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
                Book now
              </button>

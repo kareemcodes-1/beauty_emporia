@@ -14,10 +14,10 @@ createRoot(document.getElementById('root')).render(
           <BrowserRouter>
                <Routes>
                    <Route path='/' element={<App />}></Route>
-                   <Route path='/about' element={<AboutPage />}></Route>
+                   {/* <Route path='/about' element={<AboutPage />}></Route>
                    <Route path='/services' element={<ServicesPage />}></Route>
                    <Route path='/works' element={<Works />}></Route>
-                   <Route path='/contact' element={<ContactPage />}></Route>
+                   <Route path='/contact' element={<ContactPage />}></Route> */}
                </Routes>
            </BrowserRouter>
   // </StrictMode>,

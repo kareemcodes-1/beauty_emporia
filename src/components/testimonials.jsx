@@ -14,7 +14,7 @@ const Testimonials = () => {
 
              <div className="border-l border-[#aa8800]">
                   {/* <div className="h-[5rem] bg-[#000] w-[50%]"/> */}
-                 <p className="pl-[1rem] lg:w-[500px] w-full text-gray-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, ipsa eius. Neque beatae animi alias ullam. Laborum, voluptatibus unde? Est saepe voluptates vero, dolorem ipsum eveniet dicta incidunt quibusdam quam!</p>
+                 <p className="pl-[1rem] lg:w-[500px] w-full text-gray-700">We are grateful for the trust our clients place in us and the wonderful reviews that reflect our dedication to exceptional service</p>
              </div>
          </div>
 

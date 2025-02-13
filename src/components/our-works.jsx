@@ -22,12 +22,12 @@ export const OurWorks = () => {
          <div className="flex lg:flex-row flex-col lg:items-center items-start justify-between">
              <div className="mb-[1rem]">
              <h3 className="text-[1.7rem] text-[#aa8800]">Our Work</h3>
-             <h1 className="golo lg:text-[4rem] text-[2.5rem]">Organic and certified natural skincare.</h1>
+             <h1 className="golo lg:text-[4rem] text-[2.5rem]">We provide the best services and high quality work.</h1>
              </div>
              
 
              <div className="border-l border-[#aa8800]">
-                 <p className="pl-[1rem] lg:w-[500px] w-full text-gray-700">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, ipsa eius. Neque beatae animi alias ullam. Laborum, voluptatibus unde? Est saepe voluptates vero, dolorem ipsum eveniet dicta incidunt quibusdam quam!</p>
+                 <p className="pl-[1rem] lg:w-[500px] w-full text-gray-700">Our work revolves around delivering exceptional beauty and wellness experiences. We specialize in a variety of services, including facials, massages, body treatments, hair removal, and makeup, using high-quality products and the latest techniques.</p>
                  <button className="ml-[1rem] bg-[#aa8800] p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
                   See more
                 </button>

@@ -43,7 +43,7 @@ const ReviewSwiper = () => {
                            ))}
                            </div>
                            <h2 className="text-[1.5rem] golo text-black">Benedict Cado</h2>
-                           <p className="text-gray-700">Such a wonderful experience at Serenitas London! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
+                           <p className="text-gray-700">Such a wonderful experience at Beauty Emporia! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
                       </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -55,7 +55,7 @@ const ReviewSwiper = () => {
                            ))}
                            </div>
                            <h2 className="text-[1.5rem] golo text-black">Benedict Cado</h2>
-                           <p className="text-gray-700">Such a wonderful experience at Serenitas London! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
+                           <p className="text-gray-700">Such a wonderful experience at Beauty Emporia! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
                       </div>
                 </SwiperSlide>
                 <SwiperSlide>
@@ -67,7 +67,7 @@ const ReviewSwiper = () => {
                            ))}
                            </div>
                            <h2 className="text-[1.5rem] golo text-black">Benedict Cado</h2>
-                           <p className="text-gray-700">Such a wonderful experience at Serenitas London! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
+                           <p className="text-gray-700">Such a wonderful experience at Beauty Emporia! The staff is professional, and they really take the time to understand what you want. Highly recommend!</p>
                       </div>
                 </SwiperSlide>
       </Swiper>
