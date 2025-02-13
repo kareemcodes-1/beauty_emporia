@@ -4,14 +4,10 @@ import { FiArrowRight } from "react-icons/fi";
 
 export const Services = () => {
   return (
-    <section className="bg-[#aa8800] lg:px-[2rem] px-[1.5rem] pt-[1.5rem] relative">
-      <div className="absolute -top-[0rem] right-[1rem]">
-             {/* <img src="./leaf-2.png" alt="" className="w-[10rem] h-[10rem] rotate-[-80deg]"/>  */}
-             <img src="./leaf2.png" alt="" className="w-[10rem] h-[10rem] rotate-[-80deg] opacity-5"/> 
-      </div>
+    <section className="bg-[#000] lg:px-[2rem] px-[1.5rem] pt-[1.5rem] relative">
       <div className="">
         <Link
-          heading=" Facial &nbsp; massage"
+          heading="Skin &nbsp; care"
           // subheading="Learn what we do here"
           imgSrc="/home1.jpg"
           href="/services"
@@ -35,7 +31,7 @@ export const Services = () => {
           href="#"
         /> */}
         <Link
-          heading="Body &nbsp; Massage"
+          heading="Makeup"
           // subheading="Incase you're bored"
           imgSrc="/home1.jpg"
           href="/services"
@@ -95,7 +91,7 @@ const Link = ({ heading, imgSrc, subheading, href }) => {
           }}
           className="relative z-10 block lg:text-[4rem] text-[1.8rem] font-bold text-white opacity-[.5] transition-colors duration-500 group-hover:text-neutral-50 group-hover:opacity-[1] md:text-6xl"
         >
-          <span className="text-[#d5a654]">✦</span>
+          <span className="text-[#aa8800]">✱</span>
           {heading.split("").map((l, i) => (
             <motion.span
               variants={{
