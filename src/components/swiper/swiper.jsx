@@ -33,7 +33,7 @@ const SwiperSlider = () => {
             <button className="bg-[#aa8800] p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Book now
             </button>
-            <button className=" bg-stone-900 p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
+            <button className=" lg:bg-stone-900 bg-white p-[1rem] mt-[2rem] text-[1.2rem]  lg:text-white text-black !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Contact us
             </button>
           </div>
@@ -63,7 +63,7 @@ const SwiperSlider = () => {
             <button className="bg-[#aa8800] p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Book now
             </button>
-            <button className=" bg-stone-900 p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
+            <button className=" lg:bg-stone-900 bg-white p-[1rem] mt-[2rem] text-[1.2rem]  lg:text-white text-black !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Contact us
             </button>
           </div>
@@ -93,7 +93,7 @@ const SwiperSlider = () => {
             <button className="bg-[#aa8800] p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Book now
             </button>
-            <button className=" bg-stone-900 p-[1rem] mt-[2rem] text-[1.2rem]  text-white !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
+            <button className=" lg:bg-stone-900 bg-white p-[1rem] mt-[2rem] text-[1.2rem]  lg:text-white text-black !golo w-1/2 transition-all shadow-[3px_3px_0px_black] hover:shadow-none hover:translate-x-[3px] hover:translate-y-[3px]">
               Contact us
             </button>
           </div>

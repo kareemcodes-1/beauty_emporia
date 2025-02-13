@@ -15,8 +15,7 @@ const Footer = () => {
            <p
              className="  lg:text-[1.1rem] text-[1rem] lg:w-[400px] w-full"
            >
-             The best store to find all your unique and quality
-             jewelleries, we're unique in every way.
+             The ultimate destination for luxurious beauty treatments and wellness services, we are unique in everyway!
            </p>
          </div>
 
